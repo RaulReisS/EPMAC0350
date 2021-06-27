@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T21:18:06.134Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="S1eH211xUNMfB9KIpMaV" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T21:19:29.128Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="q667FP8xBTgnMzWgVs6H" version="14.8.1" type="github">
   <diagram id="c7RSiAgEq7K3T1tGgwCF" name="Page-1">
-    <mxGraphModel dx="454" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="534" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,7 +314,7 @@
           <mxGeometry x="1155" y="1228" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="64vifGtqwenx35H4uy4H-92" value="Data de coleta" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1315" y="1228" width="100" height="40" as="geometry" />
+          <mxGeometry x="1300" y="1228" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="64vifGtqwenx35H4uy4H-93" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="64vifGtqwenx35H4uy4H-90" target="64vifGtqwenx35H4uy4H-89" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -412,7 +412,7 @@
         <mxCell id="PoCe78CS7dT7vdUy4nnT-1" value="Tipo" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1210" y="250" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PoCe78CS7dT7vdUy4nnT-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="64vifGtqwenx35H4uy4H-36" target="PoCe78CS7dT7vdUy4nnT-1">
+        <mxCell id="PoCe78CS7dT7vdUy4nnT-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="PoCe78CS7dT7vdUy4nnT-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1254.9999999999998" y="394" as="sourcePoint" />
             <mxPoint x="1179.9999999999998" y="290" as="targetPoint" />
